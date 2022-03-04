@@ -11,6 +11,7 @@ int main(int argc, char **argv)
 {
 	//output to terminal
 	printf("Hello 1205!\n");
+	prinf("This is just a test for git");
 	
 	//end program
 	return 0;
